@@ -1,0 +1,10 @@
+To use run one of the file
+
+Go to browser
+
+Go to url: http://localhost:8000
+
+for addition: http://localhost:8000/add/num1/num2
+for subtraction : http://localhost:8000/sub/num1/num2
+for multiplication : http://localhost:8000/multi/num1/num2
+for division : http://localhost:8000/div/num1/num2
